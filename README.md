@@ -1,6 +1,23 @@
-# WELCOME
-This is my personal portfolio!
+# Liam Bottcher
 
-I am always working on a side project for school my current one is a java swing tower defense game where I make my own sprites and learn how the logic works. I am following a tutorial for that and it is currently a work in progress as well.
+**Computer Science Student at NC State | Systems Programming & Software Development**
 
-As for the porfolio, it highlights all my accopmlishments more in depth than my resume, as well as also giving me good practice to show off my html and css skills
+I'm a Computer Science student at North Carolina State University with a strong interest in systems programming, Linux, and low-level software development.
+
+I enjoy understanding how software works beneath the abstractions, from operating system interfaces and process memory to debugging and computer architecture. I primarily work with C, C++, and Java, and enjoy exploring new technologies through independent projects and hands-on experimentation.
+
+## Technical Skills
+
+**Languages:** C, C++, Assembly, Java, Python, JavaScript, TypeScript
+
+**Systems & Technologies:** Linux, Linux System Calls, procfs, Process Memory, Operating Systems, Reverse Engineering
+
+**Tools:** GDB, Git, GitHub, Make, Jenkins, scanmem, PINCE, Raylib
+
+## Interests
+
+- Linux systems programming
+- Operating systems and kernel development
+- Computer architecture and emulation
+- Embedded systems and firmware
+- Open-source software development
